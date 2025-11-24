@@ -20,9 +20,9 @@ export class App {
 		userInstagram: '',
 		hashtag: '#mis15perlita',
 		giftsData: {
-			accountHolderName: 'Perla Alejandra López',
+			accountHolderName: 'Perla Alejandra López',
 			cbuOrCvu: '0000003100066901227537',
-			alias: 'luciana-ac2010'
+			alias: ''
 		},
 		links: {
 			googleMaps: 'https://maps.app.goo.gl/H5j55DJfjihhxFj97',

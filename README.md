@@ -1,20 +1,24 @@
-# Luciana Cuenca 15
+# Tarjeta de 15 años
 
-Proyecto para la creación de tarjetas digitales de invitación para el cumpleaños de 15 de Luciana Cuenca.
+Tarjeta digital personalizada para fiesta de 15 años con diseño elegante y funcionalidades interactivas.
 
-## Características
+## 🌟 Demo
 
-- Diseño personalizado
-- Información del evento
-- Confirmación de asistencia
+[Ver proyecto en vivo](https://tarjeta-perlita-15.vercel.app)
 
-## Instalación
+## 🎯 Características
 
-```bash
-git clone https://github.com/tu-usuario/luciana-cuenca-15.git
-cd luciana-cuenca-15
-```
+- Countdown dinámico hasta la fecha del evento
+- Reproductor de música integrado
+- Información completa del evento (fecha, lugar, código de vestimenta)
+- Confirmación de asistencia vía WhatsApp
+- Datos bancarios para regalos
+- Hashtag personalizado para fotos
+- Diseño responsive y elegante
 
-## Uso
+## 🛠️ Tecnologías utilizadas
 
-Edita el contenido según los detalles del evento y comparte el enlace con los invitados.
+- **Angular** - Framework de desarrollo
+- **TypeScript** - Lenguaje de programación
+- **Tailwind CSS** - Framework de estilos
+- **Vercel** - Plataforma de despliegue
