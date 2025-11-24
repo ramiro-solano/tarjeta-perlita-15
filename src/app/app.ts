@@ -9,31 +9,31 @@ import { CardData } from './interface/data-interface';
 export class App {
 	// Card Data
 	data: CardData = {
-		Name: 'Luciana',
+		Name: 'Perlita',
 		title: '¡Mis 15 años!',
 		phrase: 'La noche que soñé desde pequeña finalmente llegó y quiero que seas parte de ella.',
 		songUrl: 'assets/song/song.mp3',
-		partyDateTime: '27 de Septiembre a las 22:00hs hasta 5:00hs',
-		partyLocation: 'Salón de Fiestas P.A.R. - Córdoba 1850 Yerba Buena - Tucumán',
-		dressCode: 'Elegante (Se reserva el rojo y dorado para la cumpleañera)',
+		partyDateTime: '9 de Enero a las 22:00hs hasta 5:30hs',
+		partyLocation: 'Salón de Eventos LULU - Camino 14 y colectora sur - Tafi Viejo, Tucumán',
+		dressCode: 'Gala (Se reserva el azul y dorado para la cumpleañera)',
 		confirmationDeadline: '18/9/2025',
 		userInstagram: '',
-		hashtag: '#mis15luciana',
+		hashtag: '#mis15perlita',
 		giftsData: {
-			accountHolderName: 'Luciana Cuenca',
-			cbuOrCvu: '',
+			accountHolderName: 'Perla Alejandra López',
+			cbuOrCvu: '0000003100066901227537',
 			alias: 'luciana-ac2010'
 		},
 		links: {
-			googleMaps: 'https://maps.app.goo.gl/6pVNkeBWXTHFJfRw5',
+			googleMaps: 'https://maps.app.goo.gl/H5j55DJfjihhxFj97',
 			saveDate: '',
-			whatsapp: 'https://wa.me/+5493813684015',
+			whatsapp: 'https://wa.me/+5493814152909',
 			instagram: ''
 		}
 	}
 
 	//Countdown
-	private endDate: Date = new Date(2025, 8, 27, 22, 0, 0);
+	private endDate: Date = new Date(2026, 0, 9, 22, 0, 0);
 	remainingDays = signal(0);
 	remainingHours = signal (0);
 	remainingMinutes = signal (0);

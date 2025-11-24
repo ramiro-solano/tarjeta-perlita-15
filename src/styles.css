@@ -10,13 +10,19 @@
     src: url("/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: Rouge Script;
+    src: url("/fonts/RougeScript-Regular.ttf") format("truetype");
+}
+
 @theme {
 	--font-birthstone: Birthstone Bounce, sans-serif;
 	--font-montserrat: Montserrat, sans-serif;
+    --font-rouge: Rouge Script, sans-serif;
 
-    --color-coquette-1: #EFEAE6;
-    --color-coquette-2: #FBF2F2;
-    --color-coquette-3: #FFE2E4;
-    --color-coquette-4: #FFD7D9;
-    --color-coquette-5: #EB79A2;
+    --color-theme-1: #050730; /* main background */
+    --color-theme-2: #edeee8; /* stars and details */
+    --color-theme-3: #1d2564; /* background remminders */
+    --color-theme-4: #FFD7D9;
+    --color-theme-5: #c1a65f; /* name */
 }
