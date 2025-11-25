@@ -68,7 +68,7 @@
             </h1>
             <!-- <img src="/assets/svg/monio.svg" alt="monio" class="w-10 h-10"> -->
         </div>
-        <h2 class="text-2xl font-montserrat font-bold uppercase text-white">
+        <h2 class="text-3xl font-montserrat font-bold uppercase text-white">
             {{data.title}}
         </h2>
         
@@ -107,10 +107,10 @@
             </li>
         </ul>
 
-        <p class="text-center font-light text-white">
+        <p class="text-center font-semibold text-white text-base">
             {{data.phrase}}
         </p>
-        <span class="text-gray-300">Mi cancion</span>
+        <span class="text-gray-100 font-semibold">Mi cancion</span>
 
         <button (click)="toggleMusic()" class="bg-theme-5/80 border border-theme-5/5 shadow-sm backdrop-blur rounded-full  flex justify-center items-center size-14">
             @if (!isPlaying()) {
