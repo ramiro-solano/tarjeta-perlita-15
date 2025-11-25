@@ -1,11 +1,6 @@
 @import "tailwindcss";
 
 @font-face {
-    font-family: Birthstone Bounce;
-    src: url("/fonts/BirthstoneBounce-Medium.ttf") format("truetype");
-}
-
-@font-face {
     font-family: Montserrat;
     src: url("/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
 }
@@ -16,7 +11,6 @@
 }
 
 @theme {
-	--font-birthstone: Birthstone Bounce, sans-serif;
 	--font-montserrat: Montserrat, sans-serif;
     --font-rouge: Rouge Script, sans-serif;
 

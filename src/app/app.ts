@@ -16,7 +16,7 @@ export class App {
 		partyDateTime: '9 de Enero a las 22:00hs hasta 5:30hs',
 		partyLocation: 'Salón de Eventos LULU - Camino 14 y colectora sur - Tafi Viejo, Tucumán',
 		dressCode: 'Gala (Se reserva el azul y dorado para la cumpleañera)',
-		confirmationDeadline: '18/9/2025',
+		confirmationDeadline: '10/12/2025',
 		userInstagram: '',
 		hashtag: '#mis15perlita',
 		giftsData: {
